@@ -12,7 +12,7 @@
       <!-- Step 1 -->
       <div class="relative">
         <!-- Number -->
-        <div class="absolute -top-6 left-1/2 transform -translate-x-1/2 w-12 h-12 rounded-full bg-blue-700 text-white text-xl font-bold flex items-center justify-center shadow-lg border-4 border-white">
+        <div class="absolute z-10 -top-6 left-1/2 transform -translate-x-1/2 w-12 h-12 rounded-full bg-blue-700 text-white text-xl font-bold flex items-center justify-center shadow-lg border-4 border-white">
           1
         </div>
         <!-- Content -->
@@ -37,7 +37,7 @@
       <!-- Step 2 -->
       <div class="relative">
         <!-- Number -->
-        <div class="absolute -top-6 left-1/2 transform -translate-x-1/2 w-12 h-12 rounded-full bg-primary-500 text-white text-xl font-bold flex items-center justify-center shadow-lg border-4 border-white">
+        <div class="absolute z-10 -top-6 left-1/2 transform -translate-x-1/2 w-12 h-12 rounded-full bg-primary-500 text-white text-xl font-bold flex items-center justify-center shadow-lg border-4 border-white">
           2
         </div>
         <!-- Content -->
@@ -62,7 +62,7 @@
       <!-- Step 3 -->
       <div class="relative">
         <!-- Number -->
-        <div class="absolute -top-6 left-1/2 transform -translate-x-1/2 w-12 h-12 rounded-full bg-blue-700 text-white text-xl font-bold flex items-center justify-center shadow-lg border-4 border-white">
+        <div class="absolute z-10 -top-6 left-1/2 transform -translate-x-1/2 w-12 h-12 rounded-full bg-blue-700 text-white text-xl font-bold flex items-center justify-center shadow-lg border-4 border-white">
           3
         </div>
         <!-- Content -->
