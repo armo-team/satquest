@@ -1,6 +1,6 @@
 <script>
-    import Footer from '$lib/components/Footer.svelte';
 	import '../app.css';
+    import Footer from '$lib/components/Footer.svelte';
 	import HeroSection from '$lib/components/HeroSection.svelte';
 	import FeaturesSection from '$lib/components/FeaturesSection.svelte';
 	import HowItWorks from '$lib/components/HowItWorks.svelte';
