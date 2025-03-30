@@ -1,7 +1,3 @@
-<div class="bg-primary-500 text-accent-500 shadow-glow p-4">
-  If this is blue background and glowing yellow text, your custom theme works 💡
-</div>
-
 <section class="bg-blue-900 text-white py-16 md:py-24">
   <div class="container mx-auto px-4 sm:px-6">
     <div class="max-w-4xl mx-auto text-center">
