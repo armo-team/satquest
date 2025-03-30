@@ -1,4 +1,4 @@
-<nav class="bg-primary-900 shadow-sm">
+<nav class="bg-primary-950 shadow-sm">
   <div class="max-w-7xl mx-auto px-4 py-4">
     <div class="flex items-center space-x-4">
       <img 

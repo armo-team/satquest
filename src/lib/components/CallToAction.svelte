@@ -4,7 +4,7 @@
       <!-- Left column - content -->
       <div>
         <h2 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-4 md:mb-6 leading-tight">
-          Ready to Start Your <span class="underline decoration-4 decoration-primary-900">Bitcoin Quest</span>?
+          Ready to Start Your <span class="decoration-4 decoration-primary-900">Bitcoin Quest</span>?
         </h2>
         <p class="text-lg md:text-xl mb-6 md:mb-8 max-w-xl">
           Join a community of developers earning Bitcoin while contributing to projects they love.
